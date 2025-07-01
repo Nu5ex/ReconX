@@ -34,7 +34,8 @@ python ReconX.py https://www.ejemplo.com
 ---
 
 ## 🖥️ Salida de ejemplo
-
+![Captura de ReconX](https://raw.githubusercontent.com/Nu5ex/assets/main/captura1.png)
+![Captura de ReconX](https://raw.githubusercontent.com/Nu5ex/assets/main/captura2.png)
 
 ---
 
